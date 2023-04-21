@@ -1,4 +1,5 @@
 # Housing Site - Next.js App with API Integration
+[Live Demo](https://beyut.vercel.app)
 
 This is a housing site built using Next.js, a popular React framework, with API integration for fetching housing data. The site uses popular libraries such as `chakra-ui`, `axios`, `eslint`, `eslint-config-next`, `framer-motion`, `next`, `nprogress`, `react`, `react-dom`, `react-horizontal-scrolling-menu`, and `react-icons`.
 
